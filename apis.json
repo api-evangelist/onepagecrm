@@ -1,0 +1,81 @@
+{
+    "name": "OnePageCRM",
+    "description": "OnePageCRM is a simple online sales CRM for you & your sales team. Focus on your Next Action to easily convert leads into customers and grow your business.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/874-onepagecrm.jpg",
+    "tags": [
+        "crm",
+        "have api",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/onepagecrm\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OnePageCRM",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/874-onepagecrm.jpg",
+            "humanURL": "http:\/\/www.onepagecrm.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/onepagecrm-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/app.onepagecrm.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.onepagecrm.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.onepagecrm.com\/blog\/?feed=rss2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/onepagecrm"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/onepagecrm"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.onepagecrm.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@onepagecrm.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@onepagecrm.com"
+        },
+        {
+            "type": "Email",
+            "url": "evelynod@onepagecrm.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/OnePageCRM"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/onepagecrm"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.onepagecrm.com"
+        }
+    ]
+}
